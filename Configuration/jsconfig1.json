@@ -1,0 +1,8 @@
+{
+  "Expired": 1,
+  "MaxBoxes": 100,
+  "MinBoxes": 10,
+  "FirstRange": 1.4,
+  "SecondRange": 1.75,
+  "ThirdRange":  2
+}
